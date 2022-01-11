@@ -1365,11 +1365,11 @@ body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relati
 </div>
 <div style="float: left; padding-bottom: 50px;">
 <ul class="evalhead">
-<li><a href="http://risovach.ru/upload/2016/10/mem/pereklyuchatel_128168029_orig_.jpg" target="_blank" name="&amp;lpos=customerconnect : 266" onclick="s_objectID=&#39;customerconnect : Datasheet : 266&#39;">Download</a></li>
-<li><a href="http://risovach.ru/upload/2013/08/mem/muzhik-bleat_26729324_orig_.jpg" target="_blank" name="&amp;lpos=customerconnect : 267" onclick="s_objectID=&#39;customerconnect : Product Documentation : 267&#39;">Product Download</a></li>
+<li><a href="http://risovach.ru/upload/2016/10/mem/pereklyuchatel_128168029_orig_.jpg" target="_blank" name="&amp;lpos=customerconnect : 266" onclick="s_objectID=&#39;customerconnect : Download : 266&#39;">Download</a></li>
+<li><a href="http://risovach.ru/upload/2013/08/mem/muzhik-bleat_26729324_orig_.jpg" target="_blank" name="&amp;lpos=customerconnect : 267" onclick="s_objectID=&#39;customerconnect : Download Product : 267&#39;">Product Download</a></li>
 </ul>
 <ul class="evalhead">
-<li><a href="https://avatars.mds.yandex.net/i?id=172863acc7486255fa4ef6e1c6210461-5710384-images-thumbs&amp;n=13" target="_blank" name="&amp;lpos=customerconnect : 268">FAQ</a></li>
+<li><a href="http://pm1.narvii.com/6867/58db58a34cc4c1e1bfbf51e5be12d781b446c603r1-1000-890v2_uhq.jpg" target="_blank" name="&amp;lpos=customerconnect : 268">FAQ</a></li>
 </ul>
 </div> 
          </div>
